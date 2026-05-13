@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://raw.githubusercontent.com/proompteng/bilig/main/docs/assets/favicon.svg" height="14"/> [Bilig WorkPaper](https://github.com/proompteng/bilig) - Formula-backed spreadsheet WorkPaper tools for cell readback, input edits, and JSON persistence in coding-agent workflows.
 
 
 <br />
